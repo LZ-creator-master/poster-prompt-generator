@@ -3,7 +3,7 @@
 # 🎨 Poster Prompt Generator
 
 ### Reverse-engineer poster design language into reproducible AI prompts.
-
+<<img src="assets/hero.png" alt="Poster Prompt Generator Hero" width="100%" />
 **Don't just describe what's in a poster.  
 Describe the design decisions behind it.**
 
